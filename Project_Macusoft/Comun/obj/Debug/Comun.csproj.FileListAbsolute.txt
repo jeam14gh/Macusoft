@@ -1,0 +1,114 @@
+I:\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+I:\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+I:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+I:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+G:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+G:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+G:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+G:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+H:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+H:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+H:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+H:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+I:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+I:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+I:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\ResolveAssemblyReference.cache
+I:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+I:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+H:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Java\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+C:\Users\Java\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+C:\Users\Java\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Java\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+C:\Users\Java\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+C:\Users\Usuario\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+C:\Users\Usuario\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+C:\Users\Usuario\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+C:\Users\Usuario\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+C:\Users\Usuario\Desktop\CRUD Proveedores- Clientes\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+C:\Users\Usuario\Desktop\CRUD Proveedores- Clientes\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+C:\Users\Usuario\Desktop\CRUD Proveedores- Clientes\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\CRUD Proveedores- Clientes\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+C:\Users\Usuario\Desktop\CRUD Proveedores- Clientes\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+C:\Users\Usuario\Desktop\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+C:\Users\Usuario\Desktop\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+C:\Users\Usuario\Desktop\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+C:\Users\Usuario\Desktop\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+J:\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+J:\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+J:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+J:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+F:\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+F:\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+F:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+F:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+J:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.csprojResolveAssemblyReference.cache
+K:\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+K:\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+K:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.csprojResolveAssemblyReference.cache
+K:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+K:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+H:\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+H:\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+H:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.csprojResolveAssemblyReference.cache
+H:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+H:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft2\Project_Macusoft\Comun\bin\Debug\Comun.dll
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft2\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft2\Project_Macusoft\Comun\obj\Debug\Comun.dll
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft2\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+L:\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+L:\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+L:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+L:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+L:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.csprojResolveAssemblyReference.cache
+C:\Users\uuiyuiyiy\Desktop\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+C:\Users\uuiyuiyiy\Desktop\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+C:\Users\uuiyuiyiy\Desktop\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.csprojResolveAssemblyReference.cache
+C:\Users\uuiyuiyiy\Desktop\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+C:\Users\uuiyuiyiy\Desktop\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+C:\Users\Mañana\Desktop\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+C:\Users\Mañana\Desktop\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+C:\Users\Mañana\Desktop\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+C:\Users\Mañana\Desktop\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+C:\Users\Mañana\Desktop\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.csprojResolveAssemblyReference.cache
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+L:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+L:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+L:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+L:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+F:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+F:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+F:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+F:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+E:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+E:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+E:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.csprojResolveAssemblyReference.cache
+E:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+E:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+I:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+I:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+I:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+I:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+D:\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+D:\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+D:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.csprojResolveAssemblyReference.cache
+D:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+D:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+E:\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+E:\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+E:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+E:\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.csprojResolveAssemblyReference.cache
+D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb

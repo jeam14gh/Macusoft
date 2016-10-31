@@ -1,0 +1,241 @@
+c:\users\administrador\documents\visual studio 2010\Projects\Project_Macusoft\Logica\bin\Debug\Logica.dll
+c:\users\administrador\documents\visual studio 2010\Projects\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\Project_Macusoft\Logica\bin\Debug\Datos.dll
+c:\users\administrador\documents\visual studio 2010\Projects\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\Project_Macusoft\Logica\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2010\Projects\Project_Macusoft\Logica\obj\Debug\Logica.dll
+c:\users\administrador\documents\visual studio 2010\Projects\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+H:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+H:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+H:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+H:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+H:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+H:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+I:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+I:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+I:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+I:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+I:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+I:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+I:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+I:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+I:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+G:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+G:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+G:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+G:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+G:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+G:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+G:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+G:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+H:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+H:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+H:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+H:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+H:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+H:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+H:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+H:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+I:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+I:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+I:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+I:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+I:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+I:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+I:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\ResolveAssemblyReference.cache
+I:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+I:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+H:\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Java\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+C:\Users\Java\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+C:\Users\Java\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+C:\Users\Java\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+C:\Users\Java\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+C:\Users\Java\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+C:\Users\Java\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Java\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+C:\Users\Java\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+C:\Documents and Settings\Jhon Esneider.CASA-02382E04A4\Escritorio\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+C:\Documents and Settings\Jhon Esneider.CASA-02382E04A4\Escritorio\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+C:\Documents and Settings\Jhon Esneider.CASA-02382E04A4\Escritorio\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+C:\Documents and Settings\Jhon Esneider.CASA-02382E04A4\Escritorio\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+C:\Documents and Settings\Jhon Esneider.CASA-02382E04A4\Escritorio\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+C:\Documents and Settings\Jhon Esneider.CASA-02382E04A4\Escritorio\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+C:\Documents and Settings\Jhon Esneider.CASA-02382E04A4\Escritorio\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jhon Esneider.CASA-02382E04A4\Escritorio\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+C:\Documents and Settings\Jhon Esneider.CASA-02382E04A4\Escritorio\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+C:\Users\Usuario\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+C:\Users\Usuario\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+C:\Users\Usuario\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+C:\Users\Usuario\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+C:\Users\Usuario\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+C:\Users\Usuario\Desktop\Proyecto New\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\CRUD Proveedores- Clientes\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+C:\Users\Usuario\Desktop\CRUD Proveedores- Clientes\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\CRUD Proveedores- Clientes\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+C:\Users\Usuario\Desktop\CRUD Proveedores- Clientes\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+C:\Users\Usuario\Desktop\CRUD Proveedores- Clientes\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+C:\Users\Usuario\Desktop\CRUD Proveedores- Clientes\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+C:\Users\Usuario\Desktop\CRUD Proveedores- Clientes\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\CRUD Proveedores- Clientes\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+C:\Users\Usuario\Desktop\CRUD Proveedores- Clientes\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+C:\Users\Usuario\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+C:\Users\Usuario\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+C:\Users\Usuario\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+C:\Users\Usuario\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+C:\Users\Usuario\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+C:\Users\Usuario\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+J:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+J:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+J:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+J:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+J:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+J:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+J:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+J:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+J:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+F:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+F:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+F:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+F:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+F:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+F:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+F:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+F:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+F:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+K:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+K:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+K:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+K:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+K:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+K:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+K:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+K:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+K:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+H:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+H:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+H:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft2\Project_Macusoft\Logica\bin\Debug\Logica.dll
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft2\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft2\Project_Macusoft\Logica\bin\Debug\Comun.dll
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft2\Project_Macusoft\Logica\bin\Debug\Datos.dll
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft2\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft2\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft2\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft2\Project_Macusoft\Logica\obj\Debug\Logica.dll
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft2\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+L:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+L:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+L:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+L:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+L:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+L:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+L:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+L:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+L:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+C:\Users\uuiyuiyiy\Desktop\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+C:\Users\uuiyuiyiy\Desktop\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+C:\Users\uuiyuiyiy\Desktop\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+C:\Users\uuiyuiyiy\Desktop\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+C:\Users\uuiyuiyiy\Desktop\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+C:\Users\uuiyuiyiy\Desktop\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+C:\Users\uuiyuiyiy\Desktop\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\uuiyuiyiy\Desktop\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+C:\Users\uuiyuiyiy\Desktop\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+C:\Users\Mañana\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+C:\Users\Mañana\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+C:\Users\Mañana\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+C:\Users\Mañana\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+C:\Users\Mañana\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+C:\Users\Mañana\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+C:\Users\Mañana\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Mañana\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+C:\Users\Mañana\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+C:\Users\uuiyuiyiy\Desktop\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+L:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+L:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+L:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+L:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+L:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+L:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+L:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+L:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+L:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+F:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+F:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+F:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+F:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+F:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+F:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+F:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+F:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+F:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+E:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+E:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+E:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+E:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+E:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+E:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+E:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+E:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+E:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+I:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+I:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+I:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+I:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+I:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+I:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+I:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+I:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+I:\Nueva carpeta\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+D:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+D:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+D:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+D:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+D:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+D:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+D:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+D:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+E:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+E:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+E:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+E:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+E:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+E:\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+E:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+E:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+E:\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb

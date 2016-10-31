@@ -1,0 +1,7 @@
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Datos\bin\Release\Datos.dll
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Datos\bin\Release\Datos.pdb
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Datos\bin\Release\Comun.dll
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Datos\bin\Release\Comun.pdb
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Datos\obj\Release\Datos.dll
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Datos\obj\Release\Datos.pdb

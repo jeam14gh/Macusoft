@@ -1,0 +1,53 @@
+﻿/***Paginador en los gridViews***/
+.pager-custom td {
+    background-color: #f2f2f2;
+}
+
+    .pager-custom td table tbody tr td a {
+        -moz-user-select: none;
+        background-image: none;
+        border: 1px solid #CCCCCC;
+        border-radius: 4px 4px 4px 4px;
+        cursor: pointer;
+        display: inline-block;
+        font-size: 14px;
+        font-weight: normal;
+        line-height: 1.42857;
+        margin-bottom: 0;
+        padding: 6px 12px;
+        text-align: center;
+        vertical-align: middle;
+        white-space: nowrap;
+        background-color: #FFFFFF;
+        color: #333333;
+    }
+
+        .pager-custom td table tbody tr td a:hover {
+            background-color: #f2f2f2;
+        }
+
+
+    .pager-custom td table tbody tr td span {
+        -moz-user-select: none;
+        background-image: none;
+        border: 1px solid #357EBD;
+        border-radius: 4px 4px 4px 4px;
+        cursor: pointer;
+        display: inline-block;
+        font-size: 14px;
+        font-weight: normal;
+        line-height: 1.42857;
+        margin-bottom: 0;
+        padding: 6px 12px;
+        text-align: center;
+        vertical-align: middle;
+        white-space: nowrap;
+        background-color: #428BCA;
+        color: #FFFFFF;
+    }
+
+        .pager-custom td table tbody tr td span:hover {
+            color: #ffffff;
+            background-color: #3276b1;
+            border-color: #285e8e;
+        }

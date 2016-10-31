@@ -1,0 +1,4 @@
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\bin\Release\Comun.dll
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\bin\Release\Comun.pdb
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Release\Comun.dll
+D:\USB\Proyecto New\Proyecto Macusoft\Project_Macusoft\Comun\obj\Release\Comun.pdb
