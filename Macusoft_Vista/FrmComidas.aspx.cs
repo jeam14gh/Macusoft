@@ -132,6 +132,34 @@ public partial class FrmComidas : System.Web.UI.Page
         }
     }
 
+    #region Metodos del modal productos
+    public void AbrirModal()
+    {
+        string sScriptF = "AbrirModal('#modalProductos');";
+        ScriptManager.RegisterClientScriptBlock(this.UPForm, UPForm.GetType(), "ScriptAbrirModal", sScriptF, true);
+    }
+
+    public void CerrarModal()
+    {
+        string sScriptF = "CerrarModal('#modalProductos');";
+        ScriptManager.RegisterClientScriptBlock(this.UPForm, UPForm.GetType(), "ScriptCerrarModal", sScriptF, true);
+    }
+
+    public void CerrarModalUpdatePanel()
+    {
+        string sScriptF = "CerrarModalUpdatePanel();";
+        ScriptManager.RegisterClientScriptBlock(this.UPForm, UPForm.GetType(), "ScriptCerrarModalUpdatePanel", sScriptF, true);
+    }
+    #endregion
 
 
+    protected void lbtnConsultar_Click(object sender, EventArgs e)
+    {
+        AbrirModal();
+    }
+
+    protected void ddlComidas_SelectedIndexChanged(object sender, EventArgs e)
+    {
+
+    }
 }

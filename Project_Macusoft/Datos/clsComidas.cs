@@ -79,5 +79,29 @@ namespace Datos
             return res;
         }
         #endregion
+
+        #region Listar detalles por comida
+        public List<clsComidas> DetallesPorComida(string idcomida)
+        {
+            List<clsComidas> detalles = new List<clsComidas>();
+            SqlDataAdapter sqlda;
+            //try
+            //{
+            //    sqlCon= oCon.slConexion();
+            //    sqlcmd = new SqlCommand("Select *", sqlCon);
+            //    sqlcmd.CommandType = CommandType.StoredProcedure;
+            //    sqlcmd.Parameters.AddWithValue("@Nombre_RazonSocial", oCli.Nombre);
+            //    sqlcmd.Parameters.AddWithValue("@Documento_Nit", oCli.N_documento);
+
+            //    sqlda = new SqlDataAdapter(sqlcmd);
+            //    sqlda.Fill(dtClientes);
+            //}
+            //catch (Exception e)
+            //{
+            //    dtClientes = null;
+            //}
+            return detalles;
+        }
+        #endregion
     }
 }

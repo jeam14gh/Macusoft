@@ -239,3 +239,12 @@ D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pd
 D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
 D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
 D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.dll
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Logica\bin\Debug\Logica.pdb
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.dll
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.dll
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Logica\bin\Debug\Comun.pdb
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Logica\bin\Debug\Datos.pdb
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.dll
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Logica\obj\Debug\Logica.pdb

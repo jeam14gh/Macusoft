@@ -112,3 +112,8 @@ D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
 D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.csprojResolveAssemblyReference.cache
 D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
 D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.dll
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Comun\bin\Debug\Comun.pdb
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.csprojResolveAssemblyReference.cache
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.dll
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Comun\obj\Debug\Comun.pdb

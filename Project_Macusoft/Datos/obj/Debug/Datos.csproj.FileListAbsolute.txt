@@ -183,3 +183,10 @@ D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Datos\bin\Debug\Comun.pdb
 D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
 D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Datos\obj\Debug\Datos.dll
 D:\Proyectos C# NET\Proyecto Macusoft\Project_Macusoft\Datos\obj\Debug\Datos.pdb
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Datos\bin\Debug\Datos.dll
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Datos\bin\Debug\Datos.pdb
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Datos\bin\Debug\Comun.dll
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Datos\bin\Debug\Comun.pdb
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Datos\obj\Debug\Datos.dll
+D:\GitHub\Repository\Macusoft\Project_Macusoft\Datos\obj\Debug\Datos.pdb
